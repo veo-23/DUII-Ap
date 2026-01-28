@@ -1,0 +1,7 @@
+{
+  "name": "DUII- Test",
+  "description": "A comprehensive school management system featuring role-based dashboards, attendance tracking, assignment management, automated payments, and AI-powered educational assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
